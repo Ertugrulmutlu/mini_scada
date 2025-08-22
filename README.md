@@ -120,7 +120,7 @@ mini-scada-pico/
 ## 📖 Blog Post
 
 For a more detailed **technical deep-dive** into how this project was built, check out the blog post:
-👉 [Mini SCADA Console — Technical Breakdown](https://dev.to/<your-username>/mini-scada-console)
+👉 [Mini SCADA Console — Technical Breakdown](https://dev.to/ertugrulmutlu/building-a-mini-scada-console-on-raspberry-pi-pico-c-50bg)
 
 ---
 
